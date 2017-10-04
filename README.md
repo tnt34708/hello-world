@@ -7,3 +7,5 @@ Today I determine to learn it the proper way.
 # Edit to pratice git command line
 
 #practice for merging
+
+#practing branching
